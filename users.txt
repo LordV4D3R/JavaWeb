@@ -1,0 +1,15 @@
+admin,Administrator,AD,123
+john123,John Doe,US,password123
+mary456,Mary Smith,MG,mypass456
+bob789,Bob Johnson,US,bobpass789
+alice999,Alice Brown,AD,alice2024
+peter111,Peter Wilson,US,peter123
+sarah222,Sarah Davis,MG,sarah456
+mike333,Mike Anderson,US,mike789
+lisa444,Lisa Taylor,US,lisa2024
+david555,David Martinez,MG,david123
+jenny666,Jenny White,US,jenny456
+tom777,Tom Garcia,US,tom789
+emma888,Emma Rodriguez,AD,emma2024
+chris999,Chris Lee,US,chris123
+anna000,Anna Wilson,US,anna456

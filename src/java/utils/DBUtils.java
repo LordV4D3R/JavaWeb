@@ -17,7 +17,7 @@ public class DBUtils {
 //    Do not change this code
     private static final String DB_NAME = "Event_Management_ArrayList_DB";
     private static final String DB_USER_NAME = "SA";
-    private static final String DB_PASSWORD = "YourStrong@Passw0rd";
+    private static final String DB_PASSWORD = "12345";
 
     public static Connection getConnection() throws ClassNotFoundException, SQLException {
         Connection conn = null;

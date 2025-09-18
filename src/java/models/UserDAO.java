@@ -1,6 +1,5 @@
-package business;
+package models;
 
-import models.UserDTO;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
