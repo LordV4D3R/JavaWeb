@@ -243,7 +243,7 @@
         </form>
         
         <div class="login-link">
-            <p>Already have an account? <a href="LoginJSP.jsp">Login here</a></p>
+            <p>Already have an account? <a href="login.jsp">Login here</a></p>
         </div>
     </div>
 </body>
